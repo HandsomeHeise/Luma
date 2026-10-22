@@ -4,6 +4,8 @@ Vendored verbatim from
 <https://github.com/rfoodxmodz/PS4-RDR2-Native-Invoker>
 (`rdrPayload/include/natives.h`).
 
+The upstream MIT license is retained in `rdr2_native_signatures.LICENSE`.
+
 It is used **only** for the `name -> hash -> C signature` mapping. Its own
 address tables are ignored: they cover game versions 1.00 through 1.29, and the
 build we target is **1.32**, whose handler addresses are different. Checked

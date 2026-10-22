@@ -1,5 +1,8 @@
 # Luma
 
+Source repositories: [Luma](https://github.com/HandsomeHeise/Luma) ·
+[RAGE Script Manager](https://github.com/HandsomeHeise/RageScriptManager).
+
 A GoldHEN plugin that gives **RAGE games on PS4 a Lua runtime** — one `.prx` that
 serves both Grand Theft Auto V and Red Dead Redemption 2.
 
